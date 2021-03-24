@@ -1,0 +1,14 @@
+.form-view {
+    width: 45vw;
+    float:left;
+    padding: 25px;
+    border-right: 1px solid #ccc;
+}
+
+.user-view{
+    width: 45vw;
+    float: right;
+    
+    padding: 25px;
+    background-color: #f9f9f9;
+}
